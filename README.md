@@ -2,5 +2,5 @@
 
 Snake game built in C++
 
-# Autohor
+# Author
 Amer Hasanbegović
